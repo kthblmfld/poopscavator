@@ -3,6 +3,8 @@ Poopscavator
 
 <img src="images/poopscavator.png"/>
 
+[See it in action](https://youtu.be/kCbXBw0zStk)
+
 Welcome to the Poopscavator project! Poopscavator is yet another attempt to automate the process
 of cleaning up a cat litter bin. Also, it is an opportunity to gain exposure to some interesting technology:
 
